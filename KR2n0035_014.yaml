@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2n0035/krp/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 臣伏見我皇上幾餘鑒古重訂淳化閣帖詳加考釋正其謬誤於標名排類則見義例之正於去取釋注則見折中之審允宜勒為成書登之四庫且俾承學之士未能仰窺搨本者亦得粗悉崖略臣因按次恭録仍為十卷每帖各識某體幾行若干字一條以補向來釋帖家所未備其有本屬楷書釋文所不及者亦録其本文庶一展卷而可得是帖之全以為藝林之助並恭摹宸翰四大字仍冠簡端而於御筆諭㫖記跋等篇並用聚珍版排印從諸書御筆例也乾隆丙申年仲夏月朔臣金簡恭跋
+  hash: sha256:a3e6403753f3133c356c685c209d1d53f7c03d19ff10fb402b0fb97dc64efe19
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2n0035_WYG_014-1a, image: WYG0683/WYG0683-0657a.png}
+metadata:
+  title: 欽定重刻淳化閣帖釋文
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:55:05.358293'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR2n0035/KR2n0035_014.txt
+hash: sha256:478a16c55395ad41bf438ebb8e7c8a98012038ee9ce4e391031b5cae5277051c
